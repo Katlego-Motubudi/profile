@@ -12,6 +12,7 @@ header#siteheader{
   background-image: linear-gradient(greenyellow,cyan,teal);
   border:1px solid darkgrey;
   border-radius: 5px 5px 0 0 ;
+  padding: 20px;
 }
 
 /*styling site title*/
@@ -19,4 +20,6 @@ h1#sitetitle{
   font-family: Arial;
   font-size: 32px;
   color: Pink;
+  text-align: center;
 }
+
