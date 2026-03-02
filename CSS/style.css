@@ -13,3 +13,10 @@ header#siteheader{
   border:1px solid darkgrey;
   border-radius: 5px 5px 0 0 ;
 }
+
+/*styling site tittle*/
+h1#sitetittle{
+  font-family: Arial;
+  font-size: 32px;
+  color: Pink;
+}
